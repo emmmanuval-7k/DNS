@@ -1,0 +1,64 @@
+let products = [
+    {
+        productName:"Iphone",
+        subCata:"mobile",
+        price:"64000",
+        category:"6464b7f910401815262ddd9e"
+    },
+    {
+        productName:"samsung",
+        price:"34000",
+        subCata:"mobile",
+        category:"6464b7f910401815262ddd9e"
+    },
+    {
+        productName:"oppo A7",
+        price:"24000",
+        subCata:"mobile",
+        category:"6464b7f910401815262ddd9e"
+    },
+    {
+        productName:"shirt",
+        subCata:"cloth",
+        price:"4000",
+        category:"6464b8b69242767e781c2be3"
+    },
+    {
+        productName:"jeans",
+        price:"64000",
+        subCata:"cloth",
+        category:"6464b8b69242767e781c2be3"
+    },
+    {
+        productName:"T-shirts",
+        price:"64000",
+        subCata:"cloth",
+        category:"6464b8b69242767e781c2be3"
+    },
+    {
+        productName:"TV",
+        price:"64000",
+        subCata:"userTV",
+        category:"6464b82a730e5b8bbfb6431a"
+    },
+    {
+        productName:"AC",
+        price:"64000",
+        subCata:"userAC",
+        category:"6464b82a730e5b8bbfb6431a"
+    },
+    {
+        productName:"Bulb",
+        price:"64000",
+        subCata:"userBulb",
+        category:"6464b82a730e5b8bbfb6431a"
+    },
+    {
+        productName:"fan",
+        price:"64000",
+        subCata:"userFan",
+        category:"6464b82a730e5b8bbfb6431a"
+    }
+]
+
+module.exports = products;
